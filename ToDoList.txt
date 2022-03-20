@@ -1,1 +1,2 @@
 1. Study Git and GitHub
+2. Read a book every month
